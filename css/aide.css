@@ -1,0 +1,20 @@
+/* Style pour la section aide */
+
+.aide{
+    margin-top: 6rem;
+}
+.liste-couleur li div {
+    display: inline-block;
+    border: 1px solid #000; 
+    border-radius: 2px;
+    width: 0.75rem;
+    height: 0.75rem;
+}
+
+.liste-couleur li:nth-child(1) div { background-color: #54aeff; }
+.liste-couleur li:nth-child(2) div { background-color: #0969da; }
+.liste-couleur li:nth-child(3) div { background-color: #59636e; }
+.liste-couleur li:nth-child(4) div { background-color: #d1d9e0; }
+.liste-couleur li:nth-child(5) div { background-color: #f6f8fa; }
+.liste-couleur li:nth-child(6) div { background-color: #fd8c73; }
+

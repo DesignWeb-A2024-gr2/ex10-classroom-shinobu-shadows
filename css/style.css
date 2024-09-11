@@ -1,0 +1,20 @@
+
+.resume-depot {
+    max-width: 900px; /* Pour limiter la section à 900 pixels en largeur */
+    margin: 30px 0 0 30px; /* Pour es décoler un peu du bord de la page */
+}
+
+.resume-table {
+    width: 100%; /* On veut que le tableau occupe toute la largeur de la section */
+    table-layout: fixed; /* Pour dimensionner plus facilement le tableau et ses cellules */
+}
+
+
+
+
+
+
+
+
+
+
